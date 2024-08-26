@@ -8,4 +8,20 @@ Escreva aqui os conteúdos aprendidos.
 
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+1° aula
+https://codepen.io/PlayerBR-VL/pen/YzoQwOa
+
+2³ aula
+https://codepen.io/PlayerBR-VL/pen/NWZgxLV
+
+3° aula
+https://codepen.io/PlayerBR-VL/pen/XWLeWQy
+
+4° aula- boletim e senha
+https://codepen.io/PlayerBR-VL/pen/jOjaEmz
+
+5° aula- switch case
+https://codepen.io/PlayerBR-VL/pen/RwzjxyG
+
+6° aula- array
+https://codepen.io/PlayerBR-VL/pen/NWZXEVG
