@@ -1,13 +1,22 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
-
 ## Conteúdo Técnico
--Conceito de String: sequências de letras, númeroa e símbolos usados em programação
--String:
--Numbers:
--Array:
--Switch case:
+- Conceito de String: sequências de letras, númeroa e símbolos usados em programação
+
+# ![download](https://github.com/user-attachments/assets/706cb469-77f6-4080-98e6-5b532b295942)
+
+- conceito de Numbers:trabalhar com valores numéricos
+
+# ![download](https://github.com/user-attachments/assets/8d2c9fdb-8545-43f7-ab44-3609c468c218)
+
+- conceito de Array: conjunto de valores ordenados que você o referencia com um nome e um índice
+
+# ![download](https://github.com/user-attachments/assets/13c1f17e-3450-48f3-adf4-c9be200c8f6a)
+
+- conceito de Switch case: instrução de controle JavaScript que permite executar diferentes blocos de código com base em diferentes valores
+
+# ![download](https://github.com/user-attachments/assets/c730b08d-e5cf-475a-a68c-c208d3672fa2)
 
 
 ## Atividades desenvolvidas
