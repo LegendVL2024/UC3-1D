@@ -10,6 +10,11 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 # ![download](https://github.com/user-attachments/assets/8d2c9fdb-8545-43f7-ab44-3609c468c218)
 
+- Conceito de Boolean: dado lógico que pode ter apenas dois valores: verdadeiro ou falso
+
+# ![download](https://github.com/user-attachments/assets/ee4a32da-23f5-4896-8ae7-61289abc0138)
+
+
 - conceito de Array: conjunto de valores ordenados que você o referencia com um nome e um índice
 
 # ![download](https://github.com/user-attachments/assets/13c1f17e-3450-48f3-adf4-c9be200c8f6a)
@@ -37,4 +42,36 @@ https://codepen.io/PlayerBR-VL/pen/RwzjxyG
 
 ### 6° aula- array
 https://codepen.io/PlayerBR-VL/pen/NWZXEVG
-## video sobre string
+
+### Switch de jogos
+https://codepen.io/PlayerBR-VL/pen/eYwVPeX
+
+### 7° aula- Function x Arrow Function
+https://codepen.io/PlayerBR-VL/pen/NWZOwgr?editors=0012
+
+### 8° aula- Array Biblioteca
+https://codepen.io/PlayerBR-VL/pen/GRbwgYE?editors=0010
+
+### 9° aula- Estudos sobre Array
+https://codepen.io/PlayerBR-VL/pen/YzodaVj
+
+### 10° aula- Desafio de array(playlist)
+https://codepen.io/PlayerBR-VL/pen/JjQxEGW?editors=0010
+
+### 11 aula- Video de function
+https://codepen.io/PlayerBR-VL/pen/JjQzRee?editors=0010
+
+### 12 aula- MAratona sexta-feira 13(jogo do Frozen)
+https://codepen.io/PlayerBR-VL/pen/VwJNObJ
+
+### 13° aula- Jogo de charadas
+https://codepen.io/PlayerBR-VL/pen/BaggyaV?editors=0010
+
+### 14° aula- html 1
+https://codepen.io/PlayerBR-VL/pen/MWNadjV
+
+### 15° aula- html 2
+https://codepen.io/PlayerBR-VL/pen/rNXLNaq?editors=1000
+
+
+
