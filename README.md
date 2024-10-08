@@ -76,5 +76,8 @@ https://codepen.io/PlayerBR-VL/pen/rNXLNaq?editors=1000
 ### 16° aula- Function 1
 https://codepen.io/PlayerBR-VL/pen/ExqgKqR
 
+## 17° aula- Function pratica
+https://codepen.io/PlayerBR-VL/pen/QWeKJvv?editors=0012
+
 
 
