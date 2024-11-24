@@ -25,59 +25,62 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Atividades desenvolvidas
-### 1° aula
+### 1° aula: começamos a aprender sobre code
 https://codepen.io/PlayerBR-VL/pen/YzoQwOa
 
-### 2³ aula
+### 2³ aula: aprendemos sobre code envolvendo numeros
 https://codepen.io/PlayerBR-VL/pen/NWZgxLV
 
-### 3° aula
+### 3° aula: aprendemos a usar o prompt e o if else
 https://codepen.io/PlayerBR-VL/pen/XWLeWQy
 
-### 4° aula- boletim e senha
+### 4° aula- boletim e senha: pratica com if else e prompt
 https://codepen.io/PlayerBR-VL/pen/jOjaEmz
 
-### 5° aula- switch case
+### 5° aula- switch case: aprendemos a fazer switch case e praticamos
 https://codepen.io/PlayerBR-VL/pen/RwzjxyG
 
-### 6° aula- array
+### 6° aula- array: aprendemos sobre array
 https://codepen.io/PlayerBR-VL/pen/NWZXEVG
 
-### Switch de jogos
+### Switch de jogos: pratica com switch case 
 https://codepen.io/PlayerBR-VL/pen/eYwVPeX
 
-### 7° aula- Function x Arrow Function
+### 7° aula- Function x Arrow Function: aprendemos sobre Function x Arrow Function
 https://codepen.io/PlayerBR-VL/pen/NWZOwgr?editors=0012
 
-### 8° aula- Array Biblioteca
+### 8° aula- Array Biblioteca: pratica de array pra criar uma biblioteca
 https://codepen.io/PlayerBR-VL/pen/GRbwgYE?editors=0010
 
-### 9° aula- Estudos sobre Array
+### 9° aula- Estudos sobre Array: aprendemos mais sobre array
 https://codepen.io/PlayerBR-VL/pen/YzodaVj
 
-### 10° aula- Desafio de array(playlist)
+### 10° aula- Desafio de array(playlist): fazar uma array com algo a sua escolha
 https://codepen.io/PlayerBR-VL/pen/JjQxEGW?editors=0010
 
-### 11 aula- Video de function
+### 11 aula- Video de function: a gente viu um vídeo sobre function e anotou os cod
 https://codepen.io/PlayerBR-VL/pen/JjQzRee?editors=0010
 
-### 12 aula- MAratona sexta-feira 13(jogo do Frozen)
+### 12 aula- MAratona sexta-feira 13(jogo do Frozen): jogamos um jogo da frozen que envolvia movimentação por cod
 https://codepen.io/PlayerBR-VL/pen/VwJNObJ
 
-### 13° aula- Jogo de charadas
+### 13° aula- Jogo de charadas: criamos um jogo de charadas usando function e if else
 https://codepen.io/PlayerBR-VL/pen/BaggyaV?editors=0010
 
-### 14° aula- html 1
+### 14° aula- html 1: aprendemos sobre o html 
 https://codepen.io/PlayerBR-VL/pen/MWNadjV
 
-### 15° aula- html 2
+### 15° aula- html 2: aprendemos mais sobre html e tambem sobre css
 https://codepen.io/PlayerBR-VL/pen/rNXLNaq?editors=1000
 
-### 16° aula- Function 1
+### 16° aula- Function 1: aprendemos mais sobre function e sobre ParseInt
 https://codepen.io/PlayerBR-VL/pen/ExqgKqR
 
-## 17° aula- Function pratica
+## 17° aula- Function pratica: pratica com function
 https://codepen.io/PlayerBR-VL/pen/QWeKJvv?editors=0012
+
+## 18° aula- faltei então não sei oq houve, mas pegeui a atividade com alguém
+https://codepen.io/PlayerBR-VL/pen/NWQoXby
 
 
 
